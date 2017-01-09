@@ -1,0 +1,81 @@
+
+people:
+  Gabriel: gluong@mozilla.com
+  Bryan: bclark@mozilla.com
+  Julian: jdescottes@mozilla.com
+  Tom: ttromey@mozilla.com
+  Patrick: pbrosset@mozilla.com
+  Matteo: mferretti@mozilla.com
+  Sole: sole@mozilla.com
+  Ryan: jryans@gmail.com
+  Jason: jlaster@mozilla.com
+  Brian: bgrinstead@mozilla.com
+  Jan: jodvarko@mozilla.com
+  Mike: mratcliffe@mozilla.com
+  Greg: gtatum@mozilla.com
+  Alex: apoirot@mozilla.com
+  Jim: jblandy@mozilla.com
+schedule:
+  week 2:
+    - Jim	Gabriel
+    - Ryan	Bryan
+    - Jason	Julian
+    - Brian	Tom
+    - Jan	Patrick
+    - Mike	Matteo
+    - Greg	Sole
+    - Alex
+  week 3:
+    - Alex	Gabriel
+    - Jim	Bryan
+    - Ryan	Julian
+    - Jason	Tom
+    - Brian	Patrick
+    - Jan	Matteo
+    - Mike	Sole
+    - Greg
+  week 4:
+    - Greg	Gabriel
+    - Alex	Bryan
+    - Jim	Julian
+    - Ryan	Tom
+    - Jason	Patrick
+    - Brian	Matteo
+    - Jan	Sole
+    - Mike
+  week 5:
+    - Mike	Gabriel
+    - Greg	Bryan
+    - Alex	Julian
+    - Jim	Tom
+    - Ryan	Patrick
+    - Jason	Matteo
+    - Brian	Sole
+    - Jan
+  week 6:
+    - Jan	Gabriel
+    - Mike	Bryan
+    - Greg	Julian
+    - Alex	Tom
+    - Jim	Patrick
+    - Ryan	Matteo
+    - Jason	Sole
+    - Brian
+  week 7:
+    - Brian	Gabriel
+    - Jan	Bryan
+    - Mike	Julian
+    - Greg	Tom
+    - Alex	Patrick
+    - Jim	Matteo
+    - Ryan	Sole
+    - Jason
+  week 8:
+    - Jason	Gabriel
+    - Brian	Bryan
+    - Jan	Julian
+    - Mike	Tom
+    - Greg	Patrick
+    - Alex	Matteo
+    - Jim	Sole
+    - Ryan
