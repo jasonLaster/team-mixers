@@ -9,7 +9,6 @@ function getEmail(name) {
 }
 
 function createEmail(from, first, second) {
-
   let mail = new helper.Mail()
   mail.setFrom(getEmail(from))
   mail.setSubject(subject)
@@ -54,7 +53,6 @@ function sendEmail(from, first, second) {
 const subject = `Weekly Mixer`;
 
 function getBody(first, second) {
-
   if (!second) {
     const firstLine = `Hey ${first}, this week you have not been paired with anyone.`
     const secondLine = `Feel free to treat this week as a wild card week and schedule a call with anyone you would like.`
@@ -76,6 +74,5 @@ week.forEach(pair => {
     sendEmail("Jason", first, second)
   } else {
     sendEmail("Jason", pair)
-
   }
 })
