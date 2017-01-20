@@ -66,7 +66,7 @@ function getBody(first, second) {
 
 
 const { people, schedule } = yaml.load("schedule.yaml");
-const week = schedule["week 2"]
+const week = schedule["week 3"]
 
 week.forEach(pair => {
   if (pair.includes("\t")) {
