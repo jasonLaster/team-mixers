@@ -9,7 +9,7 @@ people:
   Sole: sole@mozilla.com
   Ryan: jryans@mozilla.com
   Jason: jlaster@mozilla.com
-  Brian: bgrinstead@mozilla.com
+  Julien: jwajsberg@mozilla.com
   Jan: jodvarko@mozilla.com
   Mike: mratcliffe@mozilla.com
   Greg: gtatum@mozilla.com
@@ -79,3 +79,39 @@ schedule:
     - Alex	Matteo
     - Jim	Sole
     - Ryan
+  week 9:
+    - Jason	Greg
+    - Julien	Alex
+    - Jan	Jim
+    - Mike	Ryan
+    - Gabriel	Tom
+    - Bryan	Patrick
+    - Julian	Matteo
+    - Sole
+  week 10:
+    - Julien	Greg
+    - Jan	Alex
+    - Mike	Jim
+    - Jason	Ryan
+    - Bryan	Tom
+    - Julian	Patrick
+    - Sole	Matteo
+    - Gabriel
+  week 11:
+    - Jan	Greg
+    - Mike	Alex
+    - Jason	Jim
+    - Julien	Ryan
+    - Julian	Tom
+    - Sole	Patrick
+    - Gabriel	Matteo
+    - Bryan
+  week 12:
+    - Mike	Greg
+    - Jason	Alex
+    - Julien	Jim
+    - Jan	Ryan
+    - Sole	Tom
+    - Gabriel	Patrick
+    - Bryan	Matteo
+    - Julian
