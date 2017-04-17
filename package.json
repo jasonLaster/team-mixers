@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.4",
     "sendgrid": "^4.7.1",
+    "shuffle-array": "^1.0.1",
     "yamljs": "^0.2.8"
   }
 }
